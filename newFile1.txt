@@ -1,4 +1,3 @@
 Some data
-addition two
 cherry addition two
 
