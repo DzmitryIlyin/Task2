@@ -1,8 +1,4 @@
 Some data
 cherry addition two
 recent
-<<<<<<< HEAD
 4
-=======
-work
->>>>>>> one
